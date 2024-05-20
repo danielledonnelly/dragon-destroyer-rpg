@@ -2,4 +2,4 @@ This is a simple text-based rpg project that I created while practicing the basi
 
 I plan on styling and editing it further to make it more visually appealing.
 
-Live site: https://danielledonnelly.github.io/dragon-destroyer-rpg/
+Visit the live site [here](https://danielledonnelly.github.io/dragon-destroyer-rpg/). 
